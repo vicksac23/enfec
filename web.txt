@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commiting the changes into here
+=======
+adding one line here to check whether the code is working or not..
+>>>>>>> d506e99ae5cd364dbffe1cfb8db32aeb252ae235
